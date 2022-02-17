@@ -33,4 +33,4 @@ message.channel.send({ embeds: [exampleEmbed] });
 }
 
 // All commands will follow this very same format!
-// Everything within this file is easy editable!
+// Everything within this file is easy editable
